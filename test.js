@@ -6,3 +6,4 @@ const subtraction = () => a - b;
 const dummyFunction = () => {
   return "Im  dummy function";
 };
+console.log(`The sum of ${a} and ${b} is ${summation()}`);
