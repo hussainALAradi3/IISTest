@@ -3,4 +3,7 @@ const a = 5;
 const b = 10;
 const summation = () => a + b;
 const subtraction = () => a - b;
+const dummyFunction = () => {
+  return "Im  dummy function";
+};
 console.log(`The sum of ${a} and ${b} is ${summation()}`);
