@@ -5,3 +5,4 @@ const summation = () => a + b;
 const subtraction = () => a - b;
 const multiplication = () => a * b;
 const divide = () => a / b;
+const text = "string";
