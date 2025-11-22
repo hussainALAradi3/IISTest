@@ -3,4 +3,6 @@ const a = 5;
 const b = 10;
 const summation = () => a + b;
 const subtraction = () => a - b;
-
+const dummyFunction = () => {
+  return "Im  dummy function";
+};
